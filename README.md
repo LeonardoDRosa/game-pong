@@ -1,6 +1,7 @@
 <h1 align="center"> classic Game Pong </h1>
 
 <p align="center">Jogo criado em Javascript durante o curso Alura.
+Defenda o seu lado da tela e rebata a bolinha para marcar pontos.
 </p>
   
   <p align="center">
